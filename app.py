@@ -72,3 +72,7 @@ st.divider()
 st.markdown(":yellow[16.] Top GenAI interview questions provided by Sirisha ma'am and Chandrashekar sir ⬇️")
 st.link_button("Top GenAI interview questions", "https://drive.google.com/drive/folders/1DsDjdalYm_oofNuhDZZQ3CsPxmnjWcBQ?usp=sharing")
 st.divider()
+
+st.markdown(":yellow[17.] All Interactions & Interviews Summaries ⬇️")
+st.link_button("All Interactions & Interviews Summaries", "https://drive.google.com/drive/folders/1a_Pth7zmZxVm62-KJUjBmslDLkGCBEss?usp=sharing")
+st.divider()
