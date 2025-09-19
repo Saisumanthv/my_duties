@@ -43,7 +43,7 @@ st.link_button("GenAI students resumes", "https://docs.google.com/spreadsheets/d
 st.divider()
 
 st.markdown(":yellow[9.] Some students are being remapped to other companies or being ready to be remapped. You can check their details here ⬇️")
-st.link_button("Remapping details", "https://docs.google.com/spreadsheets/d/1TmBo6FcBxPWB_gtJj4jX6nEujDvBa9FdDK_qkZAirQE/edit?gid=0#gid=0")
+st.link_button("Remapping details", "https://docs.google.com/spreadsheets/d/1NfGXDzQlutv9pwo1XahnWqVEUfMNIXQoazYyqZaJyuI/edit?usp=sharing")
 st.divider()
 
 st.markdown(":yellow[10.] GenAI students Attendence ⬇️")
